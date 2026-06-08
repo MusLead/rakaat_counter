@@ -1,2 +1,1 @@
-# rakaat_counter
-Roast Counter
+# Rakaat Counter
